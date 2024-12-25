@@ -5,3 +5,5 @@ Criação de um jogo com HTML, CSS e JavaScript.
 - A cada vez que o jogo acabar, decrementar a vida;
 - Criar um ranking de pontuações.
 
+
+Link do Jogo: https://cynthialins.github.io/Jogo_Deton_Ralph_JavaScript/
